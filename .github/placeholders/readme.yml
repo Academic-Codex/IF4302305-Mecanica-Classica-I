@@ -1,0 +1,12 @@
+REPO_TAGLINE: Newtonian mechanics • Symmetries • Conservation Laws
+ASSETS_DIR: .github/readme
+CTA_TEXT: Access the full course website
+THEME: notes
+SITE_URL: https://academic-codex.github.io/IF4302305-Mecanica-Classica-I
+
+BG_1: "#111827"
+BG_2: "#065F46"
+TEXT_MAIN: "#ECFDF5"
+TEXT_MUTED: "#A7F3D0"
+ACCENT: "#34D399"
+CARD_RADIUS: "18"
