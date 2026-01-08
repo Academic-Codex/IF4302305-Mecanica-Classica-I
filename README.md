@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://Academic-Codex.github.io/IF4302305-Mecanica-Classica-I">
-    <img src=".github/readme/hero.svg?v=2026-01-07T03:38:45.564904Z" width="100%" alt="Access the course website" />
+    <img src=".github/readme/hero.svg?v=2026-01-08T00:13:49.446712Z" width="100%" alt="Access the course website" />
   </a>
 </p>
 
